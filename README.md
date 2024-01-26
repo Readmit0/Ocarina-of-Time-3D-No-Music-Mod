@@ -1,7 +1,12 @@
 # Ocarina-of-Time-3D-No-Music-Mod
 This mod contains the files needed to mute the background music in The Legend of Zelda Ocarina of Time 3D. It is 100% compatible with the Randomizer, as well as all different versions and regions of Ocarina of Time 3D, and it does not require patching a rom file. It is advised to have both a USA and an EUR version of OOT3D on your 3DS console, so that one can be used for Vanilla and the other can be used for the Randomizer.
 
-To install this mod on a 3DS console, put romfs folder into /luma/titles/0004000000033500. To install this mod on the Citra emulator, put the romfs folder into user\load\mods\0004000000033500. (Note that the 0004000000033500 folder mentioned in the above example is for the USA 1.0 version of the game, so be sure to put both .bcsar files into the correct folder for your version of OOT3D.)
+For the vanilla Ocarina of Time 3D game:
+To install this mod on a 3DS console, put the romfs folder into /luma/titles/0004000000033500. To install this mod on the Citra emulator, put the romfs folder into user\load\mods\0004000000033500. (Note that the 0004000000033500 folder mentioned in the above example is for the USA 1.0 version of the game, so be sure to put both .bcsar files into the correct folder for your version of OOT3D.)
+
+For the Ocarina of Time 3D Randomizer:
+To install this mod on a 3DS console, put both the QueenSound.bcsar and the QueenStream.bcsar files into /OoT3DR/Custom Music folder. To install this mod on the Citra emulator, put both the QueenSound.bcsar and the QueenStream.bcsar files into
+user\sdmc\OoT3DR\Custom Music.
 
 Mod Description:
 
